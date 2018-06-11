@@ -25,7 +25,7 @@ export default Album;
 >>>>>>> assignment
 const Album = () => (
     <section className="album">
-      Library will go here
+      Album will go here
     </section>
   );
   
