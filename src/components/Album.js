@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { Component } from 'react';
 
 class Album extends Component {
@@ -11,3 +12,14 @@ class Album extends Component {
   }
 
   export default Album;
+=======
+import React from 'react';
+
+const Album = () => (
+  <section className="album">
+    Album will go here
+  </section>
+);
+
+export default Album;
+>>>>>>> assignment
