@@ -39,12 +39,5 @@ class Album extends Component {
       );
     }
   }
-
-  export default Album;
-const Album = () => (
-    <section className="album">
-      Album will go here
-    </section>
-  );
   
   export default Album;
