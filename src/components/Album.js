@@ -39,5 +39,10 @@ class Album extends Component {
       );
     }
   }
+<<<<<<< HEAD
   
   export default Album;
+=======
+
+  export default Album;
+>>>>>>> cp-routing
